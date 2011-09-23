@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base
+END
+SURF.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/SURF.java
+END
+ISURFfactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/ISURFfactory.java
+END
+IIntegralImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/IIntegralImage.java
+END
+IDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/IDetector.java
+END
+GAUSSconvolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/GAUSSconvolution.java
+END
+IHAARconvolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/IHAARconvolution.java
+END
+IDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/IDescriptor.java
+END
+InterestPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/InterestPoint.java
+END
+FastHessian.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/FastHessian.java
+END
+IntegralImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/IntegralImage.java
+END
+IGAUSSconvolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/IGAUSSconvolution.java
+END
+HAARConvolution.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/HAARConvolution.java
+END
+SURFdescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/4/trunk/src/main/java/org/javasurf/base/SURFdescriptor.java
+END
